@@ -17,23 +17,23 @@ export default function ContactSection() {
             <div className="mt-6 space-y-4 text-sm">
               <div>
                 <span className="block font-medium text-gray-900">Email</span>
-                
+                <a
                   href="mailto:maheshmarri94@gmail.com"
                   className="text-blue-700 hover:underline"
-                
+                >
                   maheshmarri94@gmail.com
-                
+                </a>
               </div>
               <div>
                 <span className="block font-medium text-gray-900">WhatsApp</span>
-                
+                <a
                   href="https://wa.me/919347911917?text=Hello!%20I'm%20interested%20in%20your%20tutoring%20services%20for%20my%20child.%20Could%20you%20share%20more%20details%20about%20availability%20and%20pricing%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-blue-700 hover:underline"
-                
+                >
                   +91 93479 11917
-               
+                </a>
               </div>
             </div>
           </div>
