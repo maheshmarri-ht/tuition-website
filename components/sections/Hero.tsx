@@ -45,7 +45,7 @@ export default function Hero() {
               <div className="relative h-80 w-full sm:h-96">
                 <Image
                   src="/Mahi_Tutor.png"
-                  alt="Marri Mahesh, tutor"
+                 alt="TotalTutor tutor"
                   fill
                   className="object-cover"
                   priority
